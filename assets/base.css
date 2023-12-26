@@ -1,0 +1,34 @@
+body {
+  /* background-color: rgb(204, 0, 255); */
+}
+
+.grid-container {
+  background-color: rgb(125, 0, 175);
+  display: grid;
+  grid-template-columns: 15vw 15vw 15vw 15vw 15vw;
+  justify-content: space-evenly;
+  padding: 1vw;
+  width: 80vw;
+}
+
+.grid-center {
+  align-content: center;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(200, 200, 200);
+  padding: 1vw;
+  background-color: red;
+  font-size: calc(12px + 0.5vw);
+  margin: 0.5vw;
+  text-align: center;
+}
+
+.grid-item {
+  align-content: center;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(200, 200, 200);
+  padding: 1vw;
+  background-color: rgb(50, 50, 50);
+  font-size: calc(12px + 0.5vw);
+  margin: 0.5vw;
+  text-align: center;
+}
