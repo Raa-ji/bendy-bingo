@@ -3,8 +3,9 @@
   display: grid;
   grid-template-columns: 15vw 15vw 15vw 15vw 15vw;
   justify-content: space-evenly;
-  padding: 1vw;
-  width: 80vw;
+  padding: calc(10px + 0.5vw);
+  width: 95vw;
+  vertical-align: middle;
 }
 
 .grid-center {
@@ -14,8 +15,9 @@
   padding: 1vw;
   background-color: red;
   font-size: calc(12px + 0.5vw);
-  margin: 0.5vw;
   text-align: center;
+  margin: calc(10px + 0.25vw);
+  vertical-align: middle;
 }
 
 .grid-item {
@@ -24,7 +26,8 @@
   border: 1px solid rgb(200, 200, 200);
   padding: 1vw;
   background-color: rgb(50, 50, 50);
-  font-size: calc(12px + 0.5vw);
-  margin: 0.5vw;
+  font-size: calc(10px + 0.5vw);
+  margin: calc(10px + 0.25vw);
   text-align: center;
+  vertical-align: middle;
 }
