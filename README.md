@@ -1,5 +1,5 @@
 # bendy-bingo
-Stream Bingo for BendyJenga on Twitch
+Stream Bingo for [BendyJenga](https://www.twitch.tv/bendyjenga) on Twitch
 
 # Instructions / How to Play
 
