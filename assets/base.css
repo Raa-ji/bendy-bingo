@@ -1,7 +1,3 @@
-body {
-  /* background-color: rgb(204, 0, 255); */
-}
-
 .grid-container {
   background-color: rgb(125, 0, 175);
   display: grid;
