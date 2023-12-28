@@ -4,7 +4,7 @@ var gridItems = document.querySelectorAll(".grid-item");
 // Function to change the color
 function changeColor() {
   // 'this' refers to the clicked element
-  this.style.backgroundColor = "red"; // Can replace 'red' with any other
+  this.style.backgroundColor = "red"; // Can replace 'red' with any other color
 }
 
 // Add click event listener to each grid item
@@ -48,7 +48,9 @@ const texts = [
   "Talks about cryptids",
   "Makes up a new word",
   "Crashes / wrecks her vehicle",
-  "Mic echo"
+  "Mic echo",
+  "Bendy says bamboozled",
+  "Bendy's stream gets raided (5 or more viewers)"
 ];
 
 // Function to shuffle an array (A "Fisher-Yates Shuffle")
