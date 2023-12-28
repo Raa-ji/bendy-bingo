@@ -46,7 +46,9 @@ const texts = [
   "Drops something IRL",
   "Switches game mid-stream",
   "Talks about cryptids",
-  "Makes up a new word"
+  "Makes up a new word",
+  "Crashes / wrecks her vehicle",
+  "Mic echo"
 ];
 
 // Function to shuffle an array (A "Fisher-Yates Shuffle")
